@@ -14,7 +14,7 @@ table to paste into your main skill notepad.
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/youruser/foundry-notepad-loader.git
+   git clone https://github.com/NyxiumYuuki/foundry-notepad-loader.git
    cd foundry-notepad-loader
    ```
 
