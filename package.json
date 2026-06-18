@@ -1,0 +1,17 @@
+{
+  "name": "foundry-notepad-loader",
+  "version": "1.0.0",
+  "description": "Recursively create Foundry folders and notepads from a local directory structure.\r Generates a RID reference table for use in AIP Analyst skills.",
+  "main": "debug_yjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "uuid": "^14.0.0",
+    "yjs": "^13.6.31"
+  }
+}

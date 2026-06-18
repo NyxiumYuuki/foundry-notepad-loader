@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+node_modules/
+output/
+notepad_rids.md
+debug/
+test_update.txt
+test_payload.json
